@@ -11,7 +11,7 @@ import SwiftUI
 struct SnowflakeSUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SnowfallView()
         }
     }
 }
